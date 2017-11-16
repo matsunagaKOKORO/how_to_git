@@ -1,3 +1,6 @@
 hogehogehoge
 
 hoge
+
+
+こうやって コミットで足します
